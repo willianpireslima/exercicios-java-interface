@@ -35,6 +35,14 @@ A última etapa é a inserção de dados, é o acionamento do botão\
 Boas praticas nessa etapa consistem em deixar o textField em branco, é após isso usar o botão para remover o texto inserido usando um setText() para enviar um pagar o espaço\
 ![img_10](https://github.com/willianpireslima/exercicios-java-interface/assets/158337302/96a40f22-6322-4d68-a413-ed6bea2f7176)
 
+outra importante caracteristica do jframe é o uso so combobox uma forma de escolher diversas opcoes em um menu
+![exercicios-java-interface](https://github.com/willianpireslima/exercicios-java-interface/assets/158337302/3d902bc3-f6c1-4b12-9619-8c700c7f03dc)
+
+a seguinte condicação do jcombox é usada primeiro se extrai o valor usado em seguida se verifica o valor usado
+![img_11](https://github.com/willianpireslima/exercicios-java-interface/assets/158337302/a177bf4e-8692-434a-8cdc-6552b105c9b6)
+
+
+
 ## 1ª Lista de Exercícios: Estrutura Sequencial <h2>
 
 1) O coração humano bate em média uma vez por segundo. Desenvolva um algoritmo para calcular e escrever quantas vezes o coração de uma pessoa baterá se viver X anos. 
